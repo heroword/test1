@@ -23,7 +23,7 @@ namespace testproject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.button1.Text = "efttte";
+            this.button1.Text = "efe";
         }
     }
 }
